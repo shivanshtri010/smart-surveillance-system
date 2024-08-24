@@ -14,8 +14,8 @@ import tkinter as tk
 yolo_model = YOLO("yolov8n.pt")
 
 # Load the TFLite model for license plate detection
-lp_modelpath = r'C:\Users\shiva\Downloads\detect.tflite'
-lp_lblpath = r'C:\Users\shiva\Downloads\labelmap.txt'
+lp_modelpath = './detect.tflite'
+lp_lblpath = './labelmap.txt'
 min_conf = 0.5
 
 # Load the labels for license plate detection
