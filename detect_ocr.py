@@ -41,7 +41,7 @@ lp_input_std = 127.5
 reader = easyocr.Reader(['en'])
 
 # Open the video file
-video_path = r"C:\Users\shiva\Downloads\Untitled video - Made with Clipchamp (3).mp4"
+video_path = r"file_path"
 video = cv2.VideoCapture(video_path)
 
 # Check if the video file was opened successfully
