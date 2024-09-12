@@ -7,7 +7,7 @@
 
 Welcome to our state-of-the-art Vehicle License Plate Detection System! This project combines cutting-edge computer vision techniques with efficient data management to create a robust solution for tracking vehicles entering and exiting a premises.
 
-![Project Demo](smart-surveillance-system/demo.gif)
+![Project Demo](demo.gif)  <!-- Correctly referenced GIF -->
 
 ## 🚀 Features
 
@@ -38,8 +38,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [YOLOv8](https://github.com/ultralytics/ultralytics) for object detection
 - [EasyOCR](https://github.com/JaidedAI/EasyOCR) for text recognition
 - [Streamlit](https://streamlit.io/) for the interactive dashboard
-
-
 
 <p align="center">
 Made with ❤️ by Shivansh
