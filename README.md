@@ -7,7 +7,7 @@
 
 Welcome to our state-of-the-art Vehicle License Plate Detection System! This project combines cutting-edge computer vision techniques with efficient data management to create a robust solution for tracking vehicles entering and exiting a premises.
 
-![Project Demo](path/to/your/demo.gif)
+![Project Demo](demo.gif)
 
 ## 🚀 Features
 
